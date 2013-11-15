@@ -1,6 +1,6 @@
 import sys
 
-
+#I JUST WANT TO SEE HOW THIS WORKS ON GITHUB
 def findHeight(heights, index):
 	increasing = 0
 	width = 2
